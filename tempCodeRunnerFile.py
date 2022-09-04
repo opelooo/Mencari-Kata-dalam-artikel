@@ -1,2 +1,0 @@
-
-cleanData = cleanTxt.read()
